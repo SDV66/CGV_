@@ -3,7 +3,7 @@ CONDITIONS GENERALES DE VENTE SDV66
 
 Conditions Générales de Vente</h1> 
 
-  <p>Les présentes Conditions Générales de Vente (CGV) s’appliquent à toutes les ventes conclues entre <strong>[SDV66]</strong> et ses clients professionnels.</p> 
+  <p>Les présentes Conditions Générales de Vente (CGV) s’appliquent à toutes les ventes conclues entre <strong>SDV66</strong> et ses clients professionnels.</p> 
 
   <h2>1. Champ d’application</h2> 
   <p>Les CGV s’appliquent à toutes les ventes de biens et services effectuées par SDV66, sauf dérogation écrite.</p> 
