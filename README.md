@@ -36,7 +36,7 @@ Conditions Générales de Vente</h1>
   <p>En cas de force majeure, l’exécution des obligations contractuelles peut être suspendue ou annulée sans indemnité.</p> 
 
  h2>11. Juridiction compétente</h2> 
-  <p>Tout litige sera de la compétence exclusive du Tribunal de commerce de [Ville du siège social], même en cas de pluralité de défendeurs ou d’appel en garantie.</p> 
+  <p>Tout litige sera de la compétence exclusive du Tribunal de commerce de PERPIGNAN, même en cas de pluralité de défendeurs ou d’appel en garantie.</p> 
 
   <p style="margin-top: 40px;"><em>Dernière mise à jour : [date]</em></p> 
 
