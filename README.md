@@ -6,7 +6,7 @@ Conditions Générales de Vente</h1>
   <p>Les présentes Conditions Générales de Vente (CGV) s’appliquent à toutes les ventes conclues entre <strong>[SDV66]</strong> et ses clients professionnels.</p> 
 
   <h2>1. Champ d’application</h2> 
-  <p>Les CGV s’appliquent à toutes les ventes de biens et services effectuées par [SDV66], sauf dérogation écrite.</p> 
+  <p>Les CGV s’appliquent à toutes les ventes de biens et services effectuées par SDV66, sauf dérogation écrite.</p> 
 
   <h2>2. Commandes</h2> 
   <p>Toute commande vaut acceptation des présentes CGV. Les commandes sont définitives après confirmation écrite.</p> 
@@ -21,7 +21,7 @@ Conditions Générales de Vente</h1>
   <p>Sauf accord contraire, les factures sont payables à 30 jours date de facture. En cas de retard, des pénalités sont dues au taux légal majoré de 10 points, ainsi qu’une indemnité forfaitaire de 40 € pour frais de recouvrement.</p> 
 
   <h2>6. Réserve de propriété</h2> 
-  <p>Les produits demeurent la propriété de [SDV66] jusqu’au paiement intégral de leur prix.</p> 
+  <p>Les produits demeurent la propriété de SDV66 jusqu’au paiement intégral de leur prix.</p> 
 
   <h2>7. Transfert des risques</h2> 
   <p>Le transfert des risques intervient dès la remise au transporteur ou la sortie d’atelier.</p> 
@@ -35,5 +35,11 @@ Conditions Générales de Vente</h1>
   <h2>10. Force majeure</h2> 
   <p>En cas de force majeure, l’exécution des obligations contractuelles peut être suspendue ou annulée sans indemnité.</p> 
 
-  <h2>11. Juridiction compétente</h2> 
-  <p>Tout litige sera de la compétence exclusive du Tribunal de commerce de PERPIGNAN, même en cas de pluralité de 
+ h2>11. Juridiction compétente</h2> 
+  <p>Tout litige sera de la compétence exclusive du Tribunal de commerce de [Ville du siège social], même en cas de pluralité de défendeurs ou d’appel en garantie.</p> 
+
+  <p style="margin-top: 40px;"><em>Dernière mise à jour : [date]</em></p> 
+
+</body> 
+</html> 
+
