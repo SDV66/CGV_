@@ -11,8 +11,18 @@ Clients consommateurs : Conformément aux articles L.221-18 et suivants du Code 
   <h2>1. Champ d’application</h2> 
   <p>Les CGV s’appliquent à toutes les ventes de biens et services effectuées par SDV66, sauf dérogation écrite.</p> 
 
-  <h2>2. Commandes</h2> 
+  <h2>2. Commandes et délais de fabrication</h2> 
   <p>Toute commande vaut acceptation des présentes CGV. Les commandes sont définitives après confirmation écrite.</p> 
+  Toute commande fait l’objet d’un accusé de réception transmis par SDV66 par voie électronique. 
+La commande est considérée comme définitive dès réception du paiement requis selon les conditions précisées ci-dessus. 
+
+La fabrication ne débute qu’après encaissement de l’acompte (pour les clients professionnels) ou du paiement intégral (pour les particuliers). 
+
+Les délais de fabrication sont donnés à titre indicatif au moment de la confirmation de commande. 
+SDV66 s'efforce de respecter les délais annoncés, mais ne pourra être tenue responsable des retards imputables à un cas de force majeure ou à un événement indépendant de sa volonté (retards fournisseurs, grèves, pannes, etc.). 
+
+Aucun dédommagement, pénalité ou annulation de commande ne pourra être exigé en cas de retard raisonnable. 
+
  
 
   <h2>3. Prix</h2> 
@@ -49,7 +59,7 @@ En cas de non-respect des conditions de paiement, SDV66 se réserve le droit de 
   <h2>10. Force majeure</h2> 
   <p>En cas de force majeure, l’exécution des obligations contractuelles peut être suspendue ou annulée sans indemnité.</p> 
 
- h2>11. Juridiction compétente</h2> 
+   <h2>11. Juridiction compétente</h2> 
   <p>Tout litige sera de la compétence exclusive du Tribunal de commerce de PERPIGNAN, même en cas de pluralité de défendeurs ou d’appel en garantie.</p> 
 
   <p style="margin-top: 40px;"><em>Dernière mise à jour : 01/01/2025</em></p> 
